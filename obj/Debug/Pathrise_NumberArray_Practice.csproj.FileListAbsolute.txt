@@ -1,0 +1,10 @@
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\bin\Debug\Pathrise_NumberArray_Practice.exe.config
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\bin\Debug\Pathrise_NumberArray_Practice.exe
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\bin\Debug\Pathrise_NumberArray_Practice.pdb
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.csprojAssemblyReference.cache
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.Number_Array_Practice.resources
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.Properties.Resources.resources
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.csproj.GenerateResource.cache
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.exe
+C:\Users\Armstrong\Source\Repos\Pathrise_NumberArray_Practice\obj\Debug\Pathrise_NumberArray_Practice.pdb
